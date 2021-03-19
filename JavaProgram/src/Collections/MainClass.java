@@ -11,6 +11,15 @@ public class MainClass {
 		ae.insertElement();
 		GetElement ge = new GetElement();
 		ge.getElement();
+		RemoveElement re= new RemoveElement();
+		re.removingElement();
+		SearchElement se = new SearchElement();
+		se.searchElement();
+		SortElements sortele = new SortElements();
+		sortele.sortElements();
+		CopyElements ce = new CopyElements();
+		ce.copyElements();
+		
 	}
 
 }
