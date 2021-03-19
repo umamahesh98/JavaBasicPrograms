@@ -4,7 +4,6 @@ import java.util.*;
 
 public class RemoveElement {
 	public void removingElement() {
-
 		List<String> list5 = new ArrayList<String>();
 		list5.add("uma");
 		list5.add("mahesh");

@@ -11,11 +11,13 @@ package Introductions;
 			{
 			case 1:
 				System.out.println("Winter");
+				
 			case 2:
 				System.out.println("Winter");
+				
 			case 12:
 				System.out.println("Winter");
-				break;
+				
 			case 3:
 				System.out.println("Summer ");	
 			case 4:
